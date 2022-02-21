@@ -1,0 +1,14 @@
+C:\Users\Onur\Desktop\Consol_Calisma\Consol_Calisma\bin\Debug\Consol_Calisma.exe.config
+C:\Users\Onur\Desktop\Consol_Calisma\Consol_Calisma\bin\Debug\Consol_Calisma.exe
+C:\Users\Onur\Desktop\Consol_Calisma\Consol_Calisma\bin\Debug\Consol_Calisma.pdb
+C:\Users\Onur\Desktop\Consol_Calisma\Consol_Calisma\obj\Debug\Consol_Calisma.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\Consol_Calisma\Consol_Calisma\obj\Debug\Consol_Calisma.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Consol_Calisma\Consol_Calisma\obj\Debug\Consol_Calisma.exe
+C:\Users\Onur\Desktop\Consol_Calisma\Consol_Calisma\obj\Debug\Consol_Calisma.pdb
+C:\Users\Onur\Desktop\Bilgisayar Prog. 2.Sınıf\Neste Tabanlı Prog\Yeni klasör\Consol_Calisma\Consol_Calisma\bin\Debug\Consol_Calisma.exe.config
+C:\Users\Onur\Desktop\Bilgisayar Prog. 2.Sınıf\Neste Tabanlı Prog\Yeni klasör\Consol_Calisma\Consol_Calisma\bin\Debug\Consol_Calisma.exe
+C:\Users\Onur\Desktop\Bilgisayar Prog. 2.Sınıf\Neste Tabanlı Prog\Yeni klasör\Consol_Calisma\Consol_Calisma\bin\Debug\Consol_Calisma.pdb
+C:\Users\Onur\Desktop\Bilgisayar Prog. 2.Sınıf\Neste Tabanlı Prog\Yeni klasör\Consol_Calisma\Consol_Calisma\obj\Debug\Consol_Calisma.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\Bilgisayar Prog. 2.Sınıf\Neste Tabanlı Prog\Yeni klasör\Consol_Calisma\Consol_Calisma\obj\Debug\Consol_Calisma.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Bilgisayar Prog. 2.Sınıf\Neste Tabanlı Prog\Yeni klasör\Consol_Calisma\Consol_Calisma\obj\Debug\Consol_Calisma.exe
+C:\Users\Onur\Desktop\Bilgisayar Prog. 2.Sınıf\Neste Tabanlı Prog\Yeni klasör\Consol_Calisma\Consol_Calisma\obj\Debug\Consol_Calisma.pdb
